@@ -1,7 +1,7 @@
 package com.sanjusabu.javacompletecourse;
 
 
-public class MatrixInOpenJDK {
+public class MatrixInOpenJDK11 {
     public static void main(String[] args) {
         int[][] matrix = {
             {1,2,3},

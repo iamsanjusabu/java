@@ -1,6 +1,6 @@
 package com.sanjusabu.javacompletecourse;
 
-public class Calculator {
+public class Calculator5 {
     public static void main(String[] args) {
         CalculatorUtil calculator = new CalculatorUtil();
         double addition = calculator.addition(1,2,3,4,5,5,6,7,8,9,10);

@@ -1,13 +1,14 @@
 package com.sanjusabu.javacompletecourse;
 
-public class loopingStatements {
+public class loopingStatements13 {
     public static void main(String[] args) {
 
         Loops.ForLoop.classicalForLoop();
-        Loops.ForLoop.modernForLoop();
+        Loops.ForLoop.EnhancedForLoop();
 
         Loops.WhileLoop.whileLoop();
         Loops.DoWhileLoop.doWhileLoop();
+
     }
 }
 
@@ -21,7 +22,7 @@ class Loops {
 
         }
 
-        static void modernForLoop() {
+        static void EnhancedForLoop() {
             String[] fruits = {"Mango", "Apple", "Grapes", "Strawberry", "Guava"};
             for (String fruit : fruits) {
                 System.out.println(fruit);

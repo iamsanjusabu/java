@@ -1,6 +1,6 @@
 package com.sanjusabu.javacompletecourse;
 
-public class ObjectOrientedProgramming {
+public class ObjectOrientedProgramming14 {
     public static void main(String[] args) {
         Employee employee1 = new Employee("Sanju", 19, 'M', "Backend");
         System.out.println(employee1);

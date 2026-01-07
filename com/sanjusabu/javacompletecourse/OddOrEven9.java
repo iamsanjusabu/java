@@ -3,7 +3,7 @@ package com.sanjusabu.javacompletecourse;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class OddOrEven {
+public class OddOrEven9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = 0;

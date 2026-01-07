@@ -3,15 +3,15 @@ package com.sanjusabu.javacompletecourse;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class RandomModulesInOpenJDK {
+public class RandomModulesInOpenJDK15 {
     public static void main(String[] args) {
         RandomModule.demo();
         ThreadLocalRandomModule.demo();
 
         // Build-in
         // Double (0-1)
-        System.out.println(Math.random());
-    }
+        System.out.println((int)(Math.random() * 100));
+    } 
 }
 
 

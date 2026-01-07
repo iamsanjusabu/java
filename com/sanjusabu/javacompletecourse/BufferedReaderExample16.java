@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-public class BufferedReaderExample {
+public class BufferedReaderExample16 {
     public static void main(String[] args) {
         withTryBlock();
     }

@@ -1,6 +1,6 @@
 package com.sanjusabu.javacompletecourse;
 
-public class TypeConversion {
+public class TypeConversion2 {
     public static void main(String[] args) {
         byte b = 10;
         int i = 20;

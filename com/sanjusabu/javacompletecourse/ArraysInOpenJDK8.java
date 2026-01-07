@@ -1,6 +1,7 @@
 package com.sanjusabu.javacompletecourse;
 
-public class ArraysInOpenJDK {
+
+public class ArraysInOpenJDK8 {
     public static void main(String[] args) {
         String[] names = {"Sanju","Sahil","Shaila","Sabu"};
 

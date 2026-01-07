@@ -1,6 +1,6 @@
 package com.sanjusabu.javacompletecourse;
 
-public class DataTypes {
+public class DataTypes4 {
     public static void main(String[] args) {
         // PRIMITIVE DATATYPES
         // Whole numbers

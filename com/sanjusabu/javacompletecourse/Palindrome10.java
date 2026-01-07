@@ -2,7 +2,7 @@ package com.sanjusabu.javacompletecourse;
 
 import java.util.Scanner;
 
-public class Palindrome {
+public class Palindrome10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String name;
