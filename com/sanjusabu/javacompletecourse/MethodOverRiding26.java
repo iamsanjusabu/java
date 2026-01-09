@@ -16,7 +16,7 @@ class DogLatest extends AnimalLatest {
     }
 }
 
-public class MethodOverRiding24 {
+public class MethodOverRiding26 {
     public static void main(String[] args) {
         AnimalLatest entity = new AnimalLatest();
         DogLatest randomDog = new DogLatest();
@@ -31,6 +31,6 @@ public class MethodOverRiding24 {
         entity.sleep();
         randomDog.sleep();
         shiba.sleep();
-        shiba.sleep();
+
     }
 }
